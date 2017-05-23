@@ -1,0 +1,23 @@
+{
+  "name": "tab-sync",
+  "version": "0.1.0",
+  "description": "backend server for tab-sync chrome extension",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staticmukesh/tab-sync-backend.git"
+  },
+  "author": "Mukesh Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/staticmukesh/tab-sync-backend/issues"
+  },
+  "homepage": "https://github.com/staticmukesh/tab-sync-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
